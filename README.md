@@ -1,19 +1,26 @@
-# legendary-invention
+# Team Name
 
-## Склад команди:
-
----
-Product Owner (PO) - Самойленко Назарій
-
-Scrum Master (SM) - Щурова Поліна
-
-Team Lead (TM) - Агафонова Софія
-
-QA Lead - Єрешко Роман
-
-Developers - Кириченко Владислав, Кохан Іван
+Team members:
 
 ---
-Посилання на документ Google [тут](https://docs.google.com/document/d/1hDgeknyHwevMQXH-2CKt5CSZgpXWzw3xnInbNPd3fRk/edit)
+1. Product Owner (PO) - Самойленко Назарій
 
-Посилання на дошку Trello [тут](https://trello.com/b/4jbj0DCU)
+2. Scrum Master (SM) - Щурова Поліна
+
+3. Team Lead (TM) - Агафонова Софія
+
+4. QA Lead - Єрешко Роман
+
+5. Developers - Кириченко Владислав, Кохан Іван
+
+---
+
+# Project Name
+
+Project description:
+
+Artifacts:
+
+ [Project documentation](https://docs.google.com/document/d/1hDgeknyHwevMQXH-2CKt5CSZgpXWzw3xnInbNPd3fRk/edit)
+
+ [Trello board](https://trello.com/b/4jbj0DCU)
