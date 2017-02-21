@@ -21,7 +21,8 @@
  
 # Red Right Hand
 
-Project logo 
+Project logo: 
+
 ![](https://pp.vk.me/c639827/v639827552/652e/n67rAxBMPxs.jpg)
 
 ### Project description:
