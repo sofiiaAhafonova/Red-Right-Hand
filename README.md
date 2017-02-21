@@ -1,4 +1,4 @@
-# Team Name
+## Team Name - # saskke
 
 Team members:
 
@@ -15,7 +15,8 @@ Team members:
 
 ---
 
-# Project Name
+## Project Name - # Red Right Hand
+Project logo ![logo]()
 
 Project description:
 
