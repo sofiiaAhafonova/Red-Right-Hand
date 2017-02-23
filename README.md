@@ -1,6 +1,6 @@
 ### Team name:
 
-#  saskke
+# Saskke
 
 ### Team members:
 
@@ -37,3 +37,5 @@ Artifacts:
  * [Project documentation](https://docs.google.com/document/d/1hDgeknyHwevMQXH-2CKt5CSZgpXWzw3xnInbNPd3fRk/edit)
 
  * [Trello board](https://trello.com/b/4jbj0DCU)
+ 
+ * [Presentation](https://docs.google.com/presentation/d/1RRx5m9i4wVgfDb6vipFn8eZzkVkzPQxkTxNCu9x1N1U/edit#slide=id.p)
