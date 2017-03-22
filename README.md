@@ -40,4 +40,8 @@ Artifacts:
  
  * [Presentation](https://docs.google.com/presentation/d/1RRx5m9i4wVgfDb6vipFn8eZzkVkzPQxkTxNCu9x1N1U/edit#slide=id.p)
  
- * [Project backlog] (https://docs.google.com/spreadsheets/d/1I1fV5LnAFqwoLXNNssyXwSEVbSt2QoPkuT4EvjX2Z-4/edit)
+ * [Project backlog](https://docs.google.com/spreadsheets/d/1I1fV5LnAFqwoLXNNssyXwSEVbSt2QoPkuT4EvjX2Z-4/edit)
+ 
+ 
+
+ 
