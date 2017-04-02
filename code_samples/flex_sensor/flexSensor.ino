@@ -1,5 +1,3 @@
-
-#include <SPI.h>//the communication interface with the modem
 #include <Servo.h>//for working with servo-motor
 //define the servo name
 Servo myServo1;
@@ -22,16 +20,12 @@ void setup(void){
 
 void loop(){
   flex_1_val = analogRead(flex_1);
-                             //175 - 0
-  flex_1_val = map(flex_1_val, 130, 170, 0, 180);
-  //msg[0] = flex_1_val;
- // if(msg[0] <181 && msg[0] >-1){
-  pos = map(flex_1_val, 1023, 0, 255, 0);
+                            //175 - 0
+  flex_1_val = map(flex_1_val, 1023, 0, 255, 0);
+  pos = map(flex_1_val, 130, 170, 0, 180); 
   Serial.println(pos);
   myServo1.write(pos); 
   
   
 
 }
-
-
