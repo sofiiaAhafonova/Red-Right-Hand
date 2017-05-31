@@ -42,6 +42,14 @@ Artifacts:
  
  * [Project backlog](https://docs.google.com/spreadsheets/d/1I1fV5LnAFqwoLXNNssyXwSEVbSt2QoPkuT4EvjX2Z-4/edit)
  
+ * [Google disk](https://drive.google.com/drive/folders/0ByekEdgkjeQHR2lhZzRWdTRRdTQ)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
  
