@@ -34,7 +34,7 @@ Team logo:
 
 Artifacts:
 
- * [Project documentation](https://docs.google.com/document/d/1kmCeUg2PbtJHHgdGfbzdek0u-wZmxgAk8_0Q9qpZcUw/edit)
+ * [Project documentation](https://docs.google.com/document/d/178OcyY6PK-vJ1G5_WkS8-OHDTo65PVIq6kusW2ELFVg/edit)
 
  * [Trello board](https://trello.com/b/4jbj0DCU)
  
