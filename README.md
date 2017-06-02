@@ -23,7 +23,7 @@
 
 Team logo: 
 
-![](https://pp.vk.me/c639827/v639827552/652e/n67rAxBMPxs.jpg)
+![alt text](https://raw.githubusercontent.com/neutrino98/Red-Right-Hand/master/images/logo.jpg)
 
 ### Project description:
 
