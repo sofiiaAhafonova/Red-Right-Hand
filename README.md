@@ -23,7 +23,7 @@
 
 Team logo: 
 
-![](https://pp.vk.me/c639827/v639827552/652e/n67rAxBMPxs.jpg)
+![alt text](https://raw.githubusercontent.com/neutrino98/Red-Right-Hand/master/images/logo.jpg)
 
 ### Project description:
 
@@ -34,15 +34,19 @@ Team logo:
 
 Artifacts:
 
+
  * [Project documentation](https://docs.google.com/document/d/178OcyY6PK-vJ1G5_WkS8-OHDTo65PVIq6kusW2ELFVg/edit)
 
  * [Trello board](https://trello.com/b/4jbj0DCU)
  
- * [Presentation](https://docs.google.com/presentation/d/1RRx5m9i4wVgfDb6vipFn8eZzkVkzPQxkTxNCu9x1N1U/edit#slide=id.p)
+ * [Presentation 1](https://docs.google.com/presentation/d/1t9nEl64AeVgDUjJwloS6xzodwsjhKgicg1b6o7et1VY/edit?usp=sharing)
+ 
+ * [Presentation 2](https://docs.google.com/presentation/d/18yZgSpt0KY28_jpL-X2okUjzCAhf887jkhJ79sWlVTs/edit?usp=sharing)
  
  * [Project backlog](https://docs.google.com/spreadsheets/d/1I1fV5LnAFqwoLXNNssyXwSEVbSt2QoPkuT4EvjX2Z-4/edit)
  
- * [Google disk](https://drive.google.com/drive/folders/0ByekEdgkjeQHR2lhZzRWdTRRdTQ)
+ * [Hardware](https://drive.google.com/drive/folders/0ByekEdgkjeQHeG5vb0g1V1hWSEU?usp=sharing)
+ 
  
  
  
