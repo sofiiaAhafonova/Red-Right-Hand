@@ -47,6 +47,8 @@ Artifacts:
  
  * [Hardware](https://drive.google.com/drive/folders/0ByekEdgkjeQHeG5vb0g1V1hWSEU?usp=sharing)
  
+ * [Video](https://drive.google.com/file/d/0ByekEdgkjeQHVFN4bXdJRVdwLTg/view?usp=sharing)
+ 
  
  
  
