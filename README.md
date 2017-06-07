@@ -45,7 +45,9 @@ Artifacts:
  
  * [Project backlog](https://docs.google.com/spreadsheets/d/1I1fV5LnAFqwoLXNNssyXwSEVbSt2QoPkuT4EvjX2Z-4/edit)
  
- * [Hardware](https://drive.google.com/drive/folders/0ByekEdgkjeQHeG5vb0g1V1hWSEU?usp=sharing)
+ * [Hardware](https://drive.google.com/drive/folders/0ByekEdgkjeQHeG5vb0g1V1hWSEU?usp=sharing)[
+ 
+ * [Video](https://drive.google.com/file/d/0ByekEdgkjeQHVFN4bXdJRVdwLTg/view?usp=sharing)
  
  
  
